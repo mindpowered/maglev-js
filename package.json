@@ -2,7 +2,7 @@
   "private": true,
   "license": "UNLICENSED",
   "name": "@mindpoweredinfra/maglev",
-	"version": "0.4.11",
+	"version": "0.4.12",
 	"description": "maglev",
   "main": "maglev.js"
 }
