@@ -1,8 +1,8 @@
 {
-  "private": true,
-  "license": "UNLICENSED",
-  "name": "@mindpoweredinfra/maglev",
-	"version": "0.4.16",
-	"description": "maglev",
-  "main": "maglev.js"
+    "private": true,
+    "license": "CPAL-1.0",
+    "name": "@mindpoweredinfra/maglev",
+    "version": "0.4.17",
+    "description": "maglev",
+    "main": "%FILE%"
 }
