@@ -1,8 +1,7 @@
 {
-    "private": true,
     "license": "CPAL-1.0",
     "name": "@mindpowered/maglev",
-    "version": "0.4.48",
+    "version": "0.4.49",
     "description": "MagLev",
     "main": "lib/maglev.js"
 }
