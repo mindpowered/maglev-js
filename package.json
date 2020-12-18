@@ -1,7 +1,10 @@
 {
     "license": "CPAL-1.0",
     "name": "@mindpowered/maglev",
-    "version": "0.7.6",
+    "version": "0.7.7",
     "description": "MagLev",
-    "main": "lib/maglev.js"
+    "main": "lib/maglev.js",
+    "dependencies": {
+        "xmlhttprequest": "1.8.0"
+    }
 }
