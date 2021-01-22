@@ -1,8 +1,8 @@
 {
     "license": "CPAL-1.0",
     "name": "@mindpowered/maglev",
-    "version": "0.7.15",
-    "description": "MagLev",
+    "version": "0.7.16",
+    "description": "internal bus",
     "main": "lib/maglev.js",
     "dependencies": {
         "xmlhttprequest": "1.8.0"
