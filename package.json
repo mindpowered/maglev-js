@@ -1,8 +1,8 @@
 {
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "name": "@mindpowered/maglev",
-    "version": "0.7.20",
-    "description": "internal bus",
+    "version": "0.7.21",
+    "description": "Internal Communication Bus",
     "main": "lib/maglev.js",
     "dependencies": {
         "xmlhttprequest": "1.8.0"
